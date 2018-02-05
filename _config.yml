@@ -57,7 +57,7 @@ atom_feed:
 search                   : "true"
 # true, false (default)
 search_full_content      : "true"
-# true, false (default)
+# truse, false (default)
 
 # SEO Related
 google_site_verification :
@@ -255,6 +255,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments:  true
       share: true
       related: true
