@@ -9,6 +9,6 @@ main:
   # - title: "Sample Collections"
   #   url: /collection-archive/
    - title: "About"
-     url: https://blog.ngjuliann.com/about  
+     url: /about/  
    - title: "Home"
-     url: https://blog.ngjuliann.com
+     url: /

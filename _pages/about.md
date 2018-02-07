@@ -4,10 +4,7 @@ title: "Who is Julian Ng?"
 layout: single
 author_profile: false
 comments: true
-excerpt: "What can he do?"
-header:
-  overlay_image: /assets/images/main/FOHC.png
-  overlay_opactiy: 0.5
+
 
 ---
 
