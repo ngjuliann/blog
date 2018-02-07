@@ -84,14 +84,14 @@ social:
 analytics:
   provider               : google # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :UA-76485941-1
+    tracking_id          :UA-76485941-1d
 
 
 # Site Author
 author:
   name             : "Julian Ng"
   avatar           : "/assets/images/avatar.jpg"
-  bio              : "Audio. Aural. Creative. Passionate. Adaptive."
+  bio              : "Creative Practitioner"
   location         : "Melbourne, Victoria"
   email            : "mail@ngjuliann.com"
   uri              :
@@ -151,6 +151,7 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
+  - /drafts
 keep_files:
   - .git
   - .svn

@@ -10,5 +10,7 @@ main:
   #   url: /collection-archive/
    - title: "About"
      url: /about/  
+   - title: "Categories"
+     url: /categories/	 
    - title: "Home"
      url: /
