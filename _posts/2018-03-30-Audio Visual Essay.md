@@ -81,8 +81,7 @@ The same idea of a makeover to become a new person can be seen in the 2001 film,
 
 
 ## Reference
- 
-References
+
 Huson, P. (2004). Mystical Origins of the Tarot. Rochester: Destiny Books.
 
 National Gang Threat Assessment Emerging Trends. (2011). Washington, DC.
