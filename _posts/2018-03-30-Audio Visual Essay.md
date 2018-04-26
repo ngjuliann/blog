@@ -38,6 +38,13 @@ The video starts with a religious leader telling two opposing communities to mak
 > I don't wanna fight right now
 
 These are the first few words of the song and it support that idea.
+<figure class="half">
+    <a href="/assets/images/blogs/CIU210/Gang.png"><img src="/assets/images/blogs/CIU210/Gang.png"></a>
+    <a href="/assets/images/blogs/CIU210/Royal.png"><img src="/assets/images/blogs/CIU210/Royal.png"></a>
+    <figcaption>Logos from both sides</figcaption>
+</figure>
+
+The logos from both sides have an distinctive element. The red side has a bee, whilst the white has a sword. A bee is known for its strong work ethic. It lives to produce honey for its colony. A sword is known to be a weapon for warriors. It represents strength, bravery, and aggression
 
 <figure class="half">
     <a href="/assets/images/blogs/CIU210/Red.png"><img src="/assets/images/blogs/CIU210/Red.png"></a>
@@ -45,11 +52,6 @@ These are the first few words of the song and it support that idea.
     <figcaption>Contrast of both sides</figcaption>
 </figure>
 
-<figure class="half">
-    <a href="/assets/images/blogs/CIU210/Gang.png"><img src="/assets/images/blogs/CIU210/Gang.png"></a>
-    <a href="/assets/images/blogs/CIU210/Royal.png"><img src="/assets/images/blogs/CIU210/Royal.png"></a>
-    <figcaption>Logos from both sides</figcaption>
-</figure>
 
 The first half of the music video jumps back and forth from each community and the two lovers. The scenes between the two communities help establish that they couldn’t be any more different. The red and yellow side play the roles of gangs whilst the white — the rich and wealthy. The colour white is often used to represent purity, cleanliness, and heaven. Everyone in the white community is relaxed. When they are all gathered together, they put together a royal stature. The colour red is often associated with power, fury, and sexuality. Yellow can be associated with caution and danger. The combination of red and yellow shows that they are powerful and unpredictable. Drugs and sex can be seen in the music video of the red side. Modern day gangs are known to be an organization of criminals. Drug dealing is illegal however they are clever enough to stay outside the law to avoid being caught. 
 
