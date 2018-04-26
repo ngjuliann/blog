@@ -17,8 +17,7 @@ text-align: justify}
 
 Everyday, we are exposed to a great variety of different signs and symbols, and how we interpret them can lead to a certain ideology. Semiotics is the study of signs and their interpretations. Semiotics is often broken down into three different aspects; an icon, a symbol, and an index. 
 
-Define three things
-
+An icon is something that is a graphic representation of something. A photograph of an elephant represents and elephant. The photograph represent something that is real and there is no need for people to learn it’s meaning. A symbol is something that doesn’t have a graphic representation. Words, and punctuations do not look like what they mean. We have to learn what a word punctuation represents. An index is something that has a physical relationship to what it represents. A certain smell or sound can be an index. The sound of a waterfall is an index. You can literally hear the sound of water crashing down. 
 
 
 
@@ -35,7 +34,10 @@ I will be analyzing Halsey’s music videos, Now or Never. According to Halsey, 
 ![Church](/assets/images/blogs/CIU210/Peace.png)
 
 
-The video starts with a religious leader telling two opposing communities to make peace with one another. The way this scene was set up, it denotes that there is a clear distinction between both sides. On the left side is a community that is dressed in red with yellow accents. On the right side is a community that is dressed in a futuristic, all white. The crosses, candles, and black hooded people in the scene connote that this is a religious place. A church in modern day is known to be a place of peace. The same ideology is used here. When the religious leader tells both parties to make peace with each other, it implies that they are up against each other.  
+The video starts with a religious leader telling two opposing communities to make peace with one another. The way this scene was set up, it denotes that there is a clear distinction between both sides. On the left side is a community that is dressed in red with yellow accents. On the right side is a community that is dressed in a futuristic, all white. The crosses, candles, and black hooded people in the scene connote that this is a religious place. A church in modern day is known to be a place of peace. The same ideology is used here. When the religious leader tells both parties to make peace with each other, it implies that they are up against each other. 
+> I don't wanna fight right now
+
+These are the first few words of the song and it support that idea.
 
 <figure class="half">
     <a href="/assets/images/blogs/CIU210/Red.png"><img src="/assets/images/blogs/CIU210/Red.png"></a>
@@ -70,3 +72,13 @@ Halsey is interrupted and is escorted out by a member of the white community. On
 
 
 ![Halsey cutting her own hair](/assets/images/blogs/CIU210/Haircut.png)
+
+The end of the video shows Halsey cutting her hair. The act of cutting one’s hair short is a simple act with a very strong statement. “Hair is one of the most important aspects of our expression of who we are and who we want to be seen as,” Dr. Patricia A. Farrell states. “Dramatic haircuts would indicate a wish to make a drastic change and then fit into that new persona we’re creating.” Halsey’s realization that the relationship she had is not going to work out as war has broken out between their communities. Cutting her own hair is her first act of accepting that fact. Makeovers are done to essentially become a ‘new’ person. An extreme makeover has been present in popular media.
+
+![Princess Mia before and after](/assets/images/blogs/CIU210/PDM.jpg)
+The same idea of a makeover to become a new person can be seen in the 2001 film, The Princess Diaries. In short, she learns that she a princess, however, according to the Queen, she doesn't look like one or have the same characteristic. In the movie, she learns what being a princess is about. First and foremost was a makeover of the hair. It is a drastic change as she went from frizzy hair to a very neat and tidy hair.  
+
+
+
+## Reference
+ 
